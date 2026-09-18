@@ -202,7 +202,16 @@ python Cul_Result.py [path your results]
 If you find the code useful for your research, please consider citing:
 
 ```bib
-
+@article{DDGF,
+  author  = {Jiaqi Zhang and Guo Yang and Rongrong Gao and Yang Yang},
+  title   = {Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors},
+  journal = {Biomedical Signal Processing and Control},
+  volume  = {129},
+  pages   = {111343},
+  year    = {2027},
+  issn    = {1746-8094},
+  doi     = {10.1016/j.bspc.2026.111343}
+}
 ```
 
 ## 📢 LICENSE
@@ -214,4 +223,3 @@ The project is under [MIT License](./LICENSE), and is for research purpose ONLY.
 
 Our implementation is built upon [DDRM](https://github.com/bahjat-kawar/ddrm), [DDNM](https://github.com/wyhuai/DDNM), and
 [OpenAI guided-diffusion](https://github.com/openai/guided-diffusion). We thank the authors for their excellent work.
-
