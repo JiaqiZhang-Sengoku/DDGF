@@ -219,7 +219,7 @@ If you find the code useful for your research, please consider citing:
 The project is under [MIT License](./LICENSE), and is for research purpose ONLY.
 
 
-## 🎈 **Acknowledgements**
+## 🎈 Acknowledgements
 
 Our implementation is built upon [DDRM](https://github.com/bahjat-kawar/ddrm), [DDNM](https://github.com/wyhuai/DDNM), and
 [OpenAI guided-diffusion](https://github.com/openai/guided-diffusion). We thank the authors for their excellent work.
